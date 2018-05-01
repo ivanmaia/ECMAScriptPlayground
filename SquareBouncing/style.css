@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+.square{
+    height: 5vw;
+    width: 5vw;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    background-color: black;
+    position: absolute;
+    top: -5vw;
+    left: 10vw;
+}
